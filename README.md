@@ -1,2 +1,1 @@
-
-Code to connect to AWS s3 and upload images
+Code developed in nestjs, with the purpose of connecting to AWS s3 and uploading images
